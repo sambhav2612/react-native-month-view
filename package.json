@@ -1,6 +1,6 @@
 {
-  "name": "react-native-tabs",
-  "version": "1.0.9",
+  "name": "@xencov/react-native-month-view",
+  "version": "0.0.2",
   "description": "React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aksonov/react-native-tabs.git"
+    "url": "git+https://github.com/sambhav2612/react-native-month-view.git"
   },
   "keywords": [
     "react-native",
@@ -16,14 +16,10 @@
     "tabbar",
     "tabs"
   ],
-  "author": {
-    "name": "Pavlo Aksonov"
-  },
+  "author": "Sambhav Jain",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/aksonov/react-native-tabs/issues"
+    "url": "https://github.com/sambhav2612/react-native-month-view/issues"
   },
-  "homepage": "https://github.com/aksonov/react-native-tabs#readme",
-  "readme": "# react-native-tabs\nReact Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)\n",
-  "readmeFilename": "README.md"
+  "homepage": "https://github.com/sambhav2612/react-native-month-view#readme"
 }

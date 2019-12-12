@@ -1,4 +1,4 @@
-# react-native-tabs
+# react-native-month-vieew
 React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)
 
 ## Why I need to use it?
@@ -14,10 +14,6 @@ selectedStyle property represents style should be applied for selected tabs. Thi
 selectedIconStyle represents style applied for selected tab.
 The same, onSelect handler could be set globally for all tabs or/and for individual tab.
 You can lock tab buttons (require user to use long press to actuate the button) by passing prop {locked: true}.
-
-## Example
-Example makes selected icon color red and change the state of example view. To switch to other views you may use react-native-router-flux component or own navigation controller
-![demo-2](https://cloud.githubusercontent.com/assets/1321329/10188030/adf5532c-675c-11e5-8447-227ec38fa24f.gif)
 
 ```javascript
 import React, { Component } from 'react';
